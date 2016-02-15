@@ -3,8 +3,7 @@
 //  GoogleAnalyticsExample
 //
 //  Created by MoonSangJoon on 2016. 2. 15..
-//  Copyright © 2016년 sarangbang. All rights reserved.
-//
+
 
 #ifndef GoogleAnalyticsExample_Bridging_Header_h
 #define GoogleAnalyticsExample_Bridging_Header_h

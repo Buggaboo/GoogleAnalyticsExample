@@ -3,8 +3,7 @@
 //  GoogleAnalyticsExampleTests
 //
 //  Created by MoonSangJoon on 2016. 2. 15..
-//  Copyright © 2016년 sarangbang. All rights reserved.
-//
+
 
 import XCTest
 @testable import GoogleAnalyticsExample
